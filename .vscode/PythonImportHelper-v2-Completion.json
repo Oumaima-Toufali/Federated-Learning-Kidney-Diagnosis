@@ -1,0 +1,465 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "flwr",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "flwr",
+        "description": "flwr",
+        "detail": "flwr",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "CollectorRegistry",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "Gauge",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "push_to_gateway",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "CollectorRegistry",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "Gauge",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "push_to_gateway",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "CollectorRegistry",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "Gauge",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "push_to_gateway",
+        "importPath": "prometheus_client",
+        "description": "prometheus_client",
+        "isExtraImport": true,
+        "detail": "prometheus_client",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "build_mlp",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_tf_model",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "build_mlp",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_tf_model",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "RobustScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "RobustScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "IsolationForest",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "IsolationForest",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_auc_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_auc_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "SMOTE",
+        "importPath": "imblearn.over_sampling",
+        "description": "imblearn.over_sampling",
+        "isExtraImport": true,
+        "detail": "imblearn.over_sampling",
+        "documentation": {}
+    },
+    {
+        "label": "SMOTE",
+        "importPath": "imblearn.over_sampling",
+        "description": "imblearn.over_sampling",
+        "isExtraImport": true,
+        "detail": "imblearn.over_sampling",
+        "documentation": {}
+    },
+    {
+        "label": "FedAvg",
+        "importPath": "flwr.server.strategy",
+        "description": "flwr.server.strategy",
+        "isExtraImport": true,
+        "detail": "flwr.server.strategy",
+        "documentation": {}
+    },
+    {
+        "label": "ClientProxy",
+        "importPath": "flwr.server.client_proxy",
+        "description": "flwr.server.client_proxy",
+        "isExtraImport": true,
+        "detail": "flwr.server.client_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluateRes",
+        "importPath": "flwr.common",
+        "description": "flwr.common",
+        "isExtraImport": true,
+        "detail": "flwr.common",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "ServerConfig",
+        "importPath": "flwr.server",
+        "description": "flwr.server",
+        "isExtraImport": true,
+        "detail": "flwr.server",
+        "documentation": {}
+    },
+    {
+        "label": "FlowerClient",
+        "kind": 6,
+        "importPath": "client1.app.client",
+        "description": "client1.app.client",
+        "peekOfCode": "class FlowerClient(fl.client.NumPyClient):\n    def __init__(self, client_id, csv_path, pushgateway_address):\n        self.client_id = client_id\n        self.pushgateway_address = pushgateway_address\n        self.X_train, self.X_test, self.y_train, self.y_test, self.scaler = load_and_preprocess_data(csv_path)\n        self.model = build_mlp(input_dim=self.X_train.shape[1])\n        self.last_logged_round = None\n    def get_parameters(self, config):\n        # Retourner les poids du modèle sous forme de liste de numpy arrays\n        return self.model.get_weights()",
+        "detail": "client1.app.client",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "kind": 2,
+        "importPath": "client1.app.utils",
+        "description": "client1.app.utils",
+        "peekOfCode": "def load_and_preprocess_data(csv_path):\n    df = pd.read_csv(csv_path)\n    X = df.drop(\"Diagnosis\", axis=1).values\n    y = df[\"Diagnosis\"].values\n    # Split initial\n    X_train, X_test, y_train, y_test = train_test_split(\n        X, y, test_size=0.2, random_state=42, stratify=y\n    )\n    # Robust scaling\n    scaler = RobustScaler()",
+        "detail": "client1.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "build_mlp",
+        "kind": 2,
+        "importPath": "client1.app.utils",
+        "description": "client1.app.utils",
+        "peekOfCode": "def build_mlp(input_dim):\n    model = tf.keras.Sequential([\n        tf.keras.layers.InputLayer(input_shape=(input_dim,)),\n        tf.keras.layers.Dense(64, activation='relu'),\n        tf.keras.layers.Dense(32, activation='relu'),\n        tf.keras.layers.Dense(1, activation='sigmoid')\n    ])\n    model.compile(\n        optimizer='adam',\n        loss='binary_crossentropy',",
+        "detail": "client1.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_tf_model",
+        "kind": 2,
+        "importPath": "client1.app.utils",
+        "description": "client1.app.utils",
+        "peekOfCode": "def evaluate_tf_model(model, X_test, y_test):\n    y_proba = model.predict(X_test).flatten()\n    y_pred = (y_proba >= 0.5).astype(int)\n    acc = accuracy_score(y_test, y_pred)\n    f1_macro = f1_score(y_test, y_pred, average='macro')\n    f1_weighted = f1_score(y_test, y_pred, average='weighted')\n    precision = precision_score(y_test, y_pred)\n    recall = recall_score(y_test, y_pred)\n    roc = roc_auc_score(y_test, y_proba)\n    cm = confusion_matrix(y_test, y_pred)",
+        "detail": "client1.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "FlowerClient",
+        "kind": 6,
+        "importPath": "client2.app.client",
+        "description": "client2.app.client",
+        "peekOfCode": "class FlowerClient(fl.client.NumPyClient):\n    def __init__(self, client_id, csv_path, pushgateway_address):\n        self.client_id = client_id\n        self.pushgateway_address = pushgateway_address\n        self.X_train, self.X_test, self.y_train, self.y_test, self.scaler = load_and_preprocess_data(csv_path)\n        self.model = build_mlp(input_dim=self.X_train.shape[1])\n        self.last_logged_round = None\n    def get_parameters(self, config):\n        # Retourner les poids du modèle sous forme de liste de numpy arrays\n        return self.model.get_weights()",
+        "detail": "client2.app.client",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_preprocess_data",
+        "kind": 2,
+        "importPath": "client2.app.utils",
+        "description": "client2.app.utils",
+        "peekOfCode": "def load_and_preprocess_data(csv_path):\n    df = pd.read_csv(csv_path)\n    X = df.drop(\"Diagnosis\", axis=1).values\n    y = df[\"Diagnosis\"].values\n    # Split initial\n    X_train, X_test, y_train, y_test = train_test_split(\n        X, y, test_size=0.2, random_state=42, stratify=y\n    )\n    # Robust scaling\n    scaler = RobustScaler()",
+        "detail": "client2.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "build_mlp",
+        "kind": 2,
+        "importPath": "client2.app.utils",
+        "description": "client2.app.utils",
+        "peekOfCode": "def build_mlp(input_dim):\n    model = tf.keras.Sequential([\n        tf.keras.layers.InputLayer(input_shape=(input_dim,)),\n        tf.keras.layers.Dense(64, activation='relu'),\n        tf.keras.layers.Dense(32, activation='relu'),\n        tf.keras.layers.Dense(1, activation='sigmoid')\n    ])\n    model.compile(\n        optimizer='adam',\n        loss='binary_crossentropy',",
+        "detail": "client2.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_tf_model",
+        "kind": 2,
+        "importPath": "client2.app.utils",
+        "description": "client2.app.utils",
+        "peekOfCode": "def evaluate_tf_model(model, X_test, y_test):\n    y_proba = model.predict(X_test).flatten()\n    y_pred = (y_proba >= 0.5).astype(int)\n    acc = accuracy_score(y_test, y_pred)\n    f1_macro = f1_score(y_test, y_pred, average='macro')\n    f1_weighted = f1_score(y_test, y_pred, average='weighted')\n    precision = precision_score(y_test, y_pred)\n    recall = recall_score(y_test, y_pred)\n    roc = roc_auc_score(y_test, y_proba)\n    cm = confusion_matrix(y_test, y_pred)",
+        "detail": "client2.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "CustomStrategy",
+        "kind": 6,
+        "importPath": "server.app.server",
+        "description": "server.app.server",
+        "peekOfCode": "class CustomStrategy(FedAvg):\n    def __init__(self, *args, pushgateway_address=\"pushgateway:9091\", **kwargs):\n        super().__init__(*args, **kwargs)\n        self.pushgateway_address = pushgateway_address\n    def configure_fit(self, server_round, parameters, client_manager):\n        self.round_start_time = time.time()\n        instructions = super().configure_fit(server_round, parameters, client_manager)\n        for _, fit_ins in instructions:\n            fit_ins.config[\"server_round\"] = server_round\n        return instructions",
+        "detail": "server.app.server",
+        "documentation": {}
+    }
+]
