@@ -1,4 +1,4 @@
-# Federated Kidney Diagnosis 🧠🪺
+# Federated Kidney Diagnosis 
 
 A Federated Learning system for early diagnosis of Chronic Kidney Disease (CKD) using Flower, Docker, Prometheus, and Grafana.
 
