@@ -143,7 +143,8 @@ This is a brief overview of how the system runs:
 
 **Oumaima Toufali**
 
-* GitHub: [@OumaimaTF](https://github.com/OumaimaTF)
+* GitHub: [@OumaimaToufali](https://github.com/Oumaima-Toufali)
+
   
 
 ---
